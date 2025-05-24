@@ -212,7 +212,7 @@ Thus, the given program is implemented and executed successfully.
 ### EX: 9.5 SEB
 
 ### Aim:
-Write a Python program to filter the odd and even numbers  in a list using filter (  )
+To Write a Python program to filter the odd and even numbers  in a list using filter (  )
 
 ### Algorithm:
 1.Read the number of elements n and create an empty list l.
